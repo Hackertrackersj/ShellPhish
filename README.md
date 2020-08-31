@@ -8,3 +8,6 @@ Usage:<br>
 git clone https://github.com/Hackertrackersj/ShellPhish<br>
 cd shellphish<br>
 bash shellphish.sh<br>
+
+
+Credit Goes to THe Linux Choice
